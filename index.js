@@ -5,7 +5,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // ה-API Key שלך
-const API_KEY = "הכניסי_כאן_את_ה-API_KEY_שלך"; // החליפי במפתח שלך
+const API_KEY = rnd_1j5fpMK6BNY1FchJmVsBcMVu8qIT;
 const RENDER_API_URL = "https://api.render.com/v1/services";
 
 // Endpoint להחזרת רשימת האפליקציות
